@@ -4,7 +4,7 @@
 	--dark-rose:#1a4335;
 	--body-color:#191919;
 	--light: #fff8f2;
-	--primary-grad: linear-gradient(45deg, #1B4335, #C6E09D, #C6E09D,#1B4335, #C6E09D,  #C6E09D, #1B4335,#C6E09D);
+	--primary-grad: linear-gradient(45deg, #1B4335, #C6E09D, #C6E09D,#C6E09D, #C6E09D,  #C6E09D, #1B4335,#1B4335);
 	--serif: "Marcellus", serif;
 }
 body {
