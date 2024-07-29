@@ -432,7 +432,7 @@ p{
 	font-size:2rem;
 	font-weight: 900;
     color: var(--primary-color);
-    background: var(--primary-grad);
+    background: #C6E09D;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
 	position:relative;
